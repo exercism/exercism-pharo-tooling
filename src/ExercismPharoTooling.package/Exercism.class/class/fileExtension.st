@@ -1,0 +1,3 @@
+constants
+fileExtension
+	^ '.st'.

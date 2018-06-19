@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "SamuelWilson 6/17/2018 21:14",
+	"super" : "Object",
+	"category" : "ExercismPharoTooling",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"homeDirectory",
+		"exercismDirectory"
+	],
+	"name" : "Exercism",
+	"type" : "normal"
+}
