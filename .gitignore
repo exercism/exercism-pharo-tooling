@@ -1,0 +1,25 @@
+# Created by https://www.gitignore.io/api/smalltalk
+
+### Smalltalk ###
+# changes file
+*.changes
+
+# system image
+*.image
+
+# Pharo Smalltalk Debug log file
+PharoDebug.log
+
+# Squeak Smalltalk Debug log file
+SqueakDebug.log
+
+# Monticello package cache
+/package-cache
+
+# Metacello-github cache
+/github-cache
+github-*.zip
+
+
+# End of https://www.gitignore.io/api/smalltalk
+
