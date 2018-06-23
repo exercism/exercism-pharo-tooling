@@ -1,6 +1,6 @@
 export
 exportClass: aClass
-	"Export aClass into a .st file in the users HOME/exercism/pharo directory."
+	"Export aClass into a .st file in the users HOME/exercism/pharo/<exercise-name>/ directory."
 	| exporter |
-	exporter := self new.
-	exporter exportClass: aClass.
+	exporter := self buildExporterFor: aClass.
+	exporter exportClass.

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "SamuelWilson 6/23/2018 17:09",
+	"super" : "TestCase",
+	"category" : "ExercismPharoTooling-Test",
+	"classinstvars" : [
+		"sampleClass"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"exporter",
+		"sampleClass"
+	],
+	"name" : "ExercismTest",
+	"type" : "normal"
+}

@@ -1,13 +1,15 @@
 {
-	"commentStamp" : "SamuelWilson 6/21/2018 19:57",
+	"commentStamp" : "SamuelWilson 6/28/2018 20:12",
 	"super" : "Object",
 	"category" : "ExercismPharoTooling",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"homeDirectory",
-		"exercismDirectory"
+		"exerciseDirectory",
+		"exportFile",
+		"ghostDirectory",
+		"exerciseClass"
 	],
 	"name" : "Exercism",
 	"type" : "normal"
