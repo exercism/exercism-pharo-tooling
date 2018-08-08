@@ -1,5 +1,8 @@
 # Exercism Pharo Tooling
 
+## This Reposititory is no Longer Maintained
+The tooling for the Pharo language track is maintained alongside the exercises in the [exercism/pharo](https://github.com/exercism/pharo) repository. Please go there for all issues, queries and contributions.
+
 ## Summary
 This repository contains tools that help to integrate the Smalltalk and Pharo way of programming into the Exercism workflow.
 
